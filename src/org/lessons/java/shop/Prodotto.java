@@ -25,9 +25,9 @@ public class Prodotto {
     return this.barCode;
   }
 
-  private void setBarCode(int barCode) {
-    this.barCode = barCode;
-  }
+  // private void setBarCode(int barCode) {
+  // this.barCode = barCode;
+  // }
 
   public String getName() {
     return this.name;
